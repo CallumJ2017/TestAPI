@@ -1,0 +1,9 @@
+C:\Users\callum.johnson\Source\Repos\MyWebAPI\MyWebAPI.BLL\bin\Debug\netcoreapp2.2\MyWebAPI.BLL.deps.json
+C:\Users\callum.johnson\Source\Repos\MyWebAPI\MyWebAPI.BLL\bin\Debug\netcoreapp2.2\MyWebAPI.BLL.dll
+C:\Users\callum.johnson\Source\Repos\MyWebAPI\MyWebAPI.BLL\bin\Debug\netcoreapp2.2\MyWebAPI.BLL.pdb
+C:\Users\callum.johnson\Source\Repos\MyWebAPI\MyWebAPI.BLL\obj\Debug\netcoreapp2.2\MyWebAPI.BLL.csproj.CoreCompileInputs.cache
+C:\Users\callum.johnson\Source\Repos\MyWebAPI\MyWebAPI.BLL\obj\Debug\netcoreapp2.2\MyWebAPI.BLL.AssemblyInfoInputs.cache
+C:\Users\callum.johnson\Source\Repos\MyWebAPI\MyWebAPI.BLL\obj\Debug\netcoreapp2.2\MyWebAPI.BLL.AssemblyInfo.cs
+C:\Users\callum.johnson\Source\Repos\MyWebAPI\MyWebAPI.BLL\obj\Debug\netcoreapp2.2\MyWebAPI.BLL.dll
+C:\Users\callum.johnson\Source\Repos\MyWebAPI\MyWebAPI.BLL\obj\Debug\netcoreapp2.2\MyWebAPI.BLL.pdb
+C:\Users\callum.johnson\Source\Repos\MyWebAPI\MyWebAPI.BLL\obj\Debug\netcoreapp2.2\MyWebAPI.BLL.csprojAssemblyReference.cache

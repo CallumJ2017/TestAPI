@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:MyWebAPI.Controllers.ValuesController.Get">
+            <summary>
+            Get all values
+            </summary>
+        </member>
+        <member name="M:MyWebAPI.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Get value by Id
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:MyWebAPI.Controllers.ValuesController.Get">
+            <summary>
+            Radius of the circle
+            </summary>
+        </member>
+    </members>
+</doc>
